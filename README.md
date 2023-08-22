@@ -1,3 +1,12 @@
+
+<img width="1440" alt="Screenshot 2023-08-23 at 12 39 39 AM" src="https://github.com/mansi-nagpal/airbnbclone/assets/134012873/45a6f89c-36af-4b8c-81be-ad4a10d3494a">
+
+
+<img width="1440" alt="Screenshot 2023-08-23 at 12 40 01 AM" src="https://github.com/mansi-nagpal/airbnbclone/assets/134012873/05667323-bea2-4509-aa1e-e31388bc7c50"><img width="1440" alt="Screenshot 2023-08-23 at 12 40 21 AM" src="https://github.com/mansi-nagpal/airbnbclone/assets/134012873/0464b754-5a0c-44c4-a3e2-de324e87d117">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
